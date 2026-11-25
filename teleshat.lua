@@ -1,4 +1,4 @@
-local URL = "Render URL"
+local URL = "wss://://onrender.com"
 
 write("Your Nickname: ")
 local nick = read()
