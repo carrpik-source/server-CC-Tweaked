@@ -1,0 +1,14 @@
+Hi, everyone!
+This script was written for the CC:Tweaked mod.
+Here's the tutorial.
+1. On the “Render.com” website, you need to create a “Web Service.”
+2. You need to upload “server.py” there.
+3. In the “Build Command” field, enter “pip install -r requirements.txt.”
+4. In the “Start Command” field, enter “python server.py.”
+5. In Minecraft itself, you need to download the “teleshat.lua” file using “wget.”
+6. Then you need to edit “teleshat.lua” and in the “local URL = ” line, enter your server’s address—but not in https format. The link should look like “wss://server-cc-tweaked.onrender.com,” but replace “server-cc-tweaked” with your own server name 
+
+I hope I explained this clearly.
+Good luck, everyone!
+
+Translated with DeepL.com (free version)
