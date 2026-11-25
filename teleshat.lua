@@ -1,4 +1,4 @@
-local URL = "ws://127.0.0.1:8765"
+local URL = "Render URL"
 
 write("Your Nickname: ")
 local nick = read()
